@@ -1,0 +1,79 @@
+#back{
+    height: 90%;
+    width:100%;
+    
+  
+   
+}
+body{
+    background-color: rgb(238, 243, 245);
+}
+#anika{
+    border-radius: 50%;
+    height: 150px;
+    margin-left: 650px;
+   
+    
+}
+.anika{
+   margin-left: 550px;
+   line-height: 1;
+    width:30%;
+    display: flex;
+    justify-content: center;
+   
+}
+#resume{
+
+    height:50px;
+}
+.new{
+    position:relative
+    
+}
+.head{
+    
+ 
+    padding-left: 150px;
+    font-family: 'Dancing Script', cursive;
+    font-style: italic;
+    position: absolute;
+    bottom: 250px;
+    color: rgb(14, 4, 95);
+    font-size: 30px;
+    margin-left: 70px;
+   
+
+    
+    
+}
+.skillline{
+    font-family: 'Times New Roman', Times, serif;
+}
+.gif{
+    width:200px
+}
+.skills{
+    text-align: center;
+    
+}
+li{
+    text-align: left;
+}
+a:hover{
+    color:rgb(0, 94, 255);
+}
+.Contact{
+    background-color: rgb(234, 206, 241);
+    
+}
+.last{
+    text-align: center;
+}
+a{
+    padding: 30px;
+}
+
+.list{
+    text-align: center;
+}
